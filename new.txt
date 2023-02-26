@@ -1,0 +1,5 @@
+person_surname: Burtseva,
+person_name: Maria,
+person_patronymic: Vladimirovna,
+number_of_animals: 0,
+future_desired_salary: 150000.
