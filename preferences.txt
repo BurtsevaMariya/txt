@@ -1,0 +1,5 @@
+favorite_movie: Gentlemen,
+favorite_series: Dr. House,
+favorite_food: Tasty,
+favorite_season: Winter
+country_would_like_to_visit: Switzerland
